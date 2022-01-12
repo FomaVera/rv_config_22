@@ -1,10 +1,12 @@
-{
-  "ua": {
+[
+  {
+    "locale": "ua",
     "api": "https://radiovera.online/api/",
-    "stream": "http://hls-01-radiovera.hostingradio.ru/rewind/radiovera/playlist.m3u8"
+    "stream": "https://hls-01-radiovera.hostingradio.ru/rewind/radiovera/playlist.m3u8"
   },
-  "ru": {
+  {
+    "locale": "ru",
     "api": "https://radiovera.ru/api/",
-    "stream": "http://hls-01-radiovera.hostingradio.ru/rewind/radiovera/playlist.m3u8"
+    "stream": "https://hls-01-radiovera.hostingradio.ru/rewind/radiovera/playlist.m3u8"
   }
-}
+]
