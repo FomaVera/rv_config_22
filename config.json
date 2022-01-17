@@ -2,11 +2,17 @@
   {
     "locale": "ua",
     "api": "https://radiovera.online/api/",
-    "stream": "https://hls-01-radiovera.hostingradio.ru/rewind/radiovera/playlist.m3u8"
+    "stream": "https://hls-01-radiovera.hostingradio.ru/rewind/radiovera/playlist.m3u8",
+    "about": "http://radiovera.online/about",
+    "ios_donate": "https://lp.radiovera.online/o-radio/?utm_source=ios_menu_btn",
+    "android_donate": "https://lp.radiovera.online/donation_rv/?utm_source=andr_menu_btn&utm_medium=banner&utm_campaign=rvbuttonmobile"
   },
   {
     "locale": "ru",
     "api": "https://radiovera.ru/api/",
-    "stream": "https://hls-01-radiovera.hostingradio.ru/rewind/radiovera/playlist.m3u8"
+    "stream": "https://hls-01-radiovera.hostingradio.ru/rewind/radiovera/playlist.m3u8",
+    "about": "http://radiovera.ru/about",
+    "ios_donate": "https://lp.radiovera.ru/o-radio/?utm_source=ios_menu_btn",
+    "android_donate": "https://lp.radiovera.ru/donation_rv/?utm_source=andr_menu_btn&utm_medium=banner&utm_campaign=rvbuttonmobile"
   }
 ]
