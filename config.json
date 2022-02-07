@@ -1,18 +1,3 @@
-[
-  {
-    "locale": "ua",
-    "api": "https://radiovera.online/api/",
-    "stream": "https://hls-01-radiovera.hostingradio.ru/rewind/radiovera/playlist.m3u8",
-    "about": "http://radiovera.online/about",
-    "ios_donate": "https://lp.radiovera.online/o-radio/?utm_source=ios_menu_btn",
-    "android_donate": "https://lp.radiovera.online/donation_rv/?utm_source=andr_menu_btn&utm_medium=banner&utm_campaign=rvbuttonmobile"
-  },
-  {
-    "locale": "ru",
-    "api": "https://radiovera.ru/api/",
-    "stream": "https://hls-01-radiovera.hostingradio.ru/rewind/radiovera/playlist.m3u8",
-    "about": "http://radiovera.ru/about",
-    "ios_donate": "https://lp.radiovera.ru/o-radio/?utm_source=ios_menu_btn",
-    "android_donate": "https://lp.radiovera.ru/donation_rv/?utm_source=andr_menu_btn&utm_medium=banner&utm_campaign=rvbuttonmobile"
-  }
-]
+{
+"content":"9cgCvzIMaekDqWHEAwpu/FxxKV6xttx8mPrUGemmMfy7ltFNm9se3M7bahuAirbAAw5G+XesTzOZbQUFMHrBjjFTEtJ7k7wA/UiP1kyE4tW41Xg6i6j7sEwzIudVfWx11mdd6z4+ICUXraX2svQYYd5J4dYg/W1B6v4oNwYV5CY8T9Dy+Ci8AtKfjln/iJMzueXkE6X5kTYyh9lyGpDMfO2hLgQc9UZYIUrbMmqUOg00bqp/xUPwP//uptIM2hy55xULS3a4td+Mt2Zr86zNURXS3n89EndYnWLGYIi6TikEXwvlh6H4hOUln8rrDiOO78Tt0CjNM7e2RljiG+liv5nIK4WP8ERlnlKyqzks7lzNerSgQzsMuj/Y+QjyC+fq9C38qqAiRA5gv0ABHNr8TQFJXSLknevTpl2KEHSpm9dR+XewbNAZCx8GFRyfTOp/yM58cSkJnK6nv0M6o2o8e3m5dFNKvHANtM/JrYJIAMPnGdRmyWLNiwcAnWp302fikCu3+Hkpw0tpSFInvoXT+ggVHpi6TBN1uu6X9D5rypEYc8zxKH2jZ48LkYr7UXVMEt9SIdIf3LUnPDj4VpPikC8NUt1zjnNzg2ZPVSL/OYD9sdbtJhb5QZ68GPe8+fvZgrln3+3GhI4xvi/ruLjJREg483p3TagTmBNcKted/ucmgMG5uVW72j/CszdyT6M3qB0YUmNzFpdz97fnWbY+TXRIj1k65wMRchKZSaP0Y9Opec/x2BSDxUme+6s8HXIY8+8JuIOKKyl+kbi5edJGbVQ409R702liXV5cjTEJBap7wOcGBsCB1kDsWAEAQe2OHOtLFrchWvgjgHXfrdzaVCFdNFivnmocrwEhsEMxkLKteEQVwaZgmfTQjkWbvB7lpsYCZ77om59cf+gzCqbSi+euvlPrhao4qIplZuK7HT3qfWiWgLqdn43NgkwkB9i6fBDtNGKZclqbqmQgPGQBbkXBS6PgOWxgjEqOdKTMPGVGFaRbtGd3VJHOcdcnc0QFNM0U+30iKX46k1iggp+B5gDhjes6j8ktHgag6x624zQfP5uUodfVnZUNQGodCD+GtQ5h9IvnqsynJ5bTOuFxvseXmJzy7Uth5bLcpFySLmg="
+}
